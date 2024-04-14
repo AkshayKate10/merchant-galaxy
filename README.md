@@ -61,6 +61,9 @@ I have no idea what you are talking about
 - Domain
   - Models
     - Metals
+      - Silver (ENUM)
+      - Gold (ENUM)
+      - Iron (ENUM)
   - Services
     - InputFileReader
     - RomanToNumberConvertor
